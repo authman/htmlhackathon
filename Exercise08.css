@@ -1,0 +1,21 @@
+#wrapper {
+  width:        800px;
+  margin:       auto;
+  background:   #65adc5; /*#e7f4f8*/
+  color:        #444446;
+}
+
+.content {
+  margin:       15px;
+  background:   #aacc00;
+}
+
+p {
+  font-size:    20pt;
+  width:        400px;
+  border:       1px solid white;
+}
+
+li {
+	text-align:   center;
+}
