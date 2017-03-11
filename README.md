@@ -4,7 +4,7 @@
 
 - Download a text editor such as [Sublime](https://www.sublimetext.com/3) or [VSCode](https://code.visualstudio.com/)
 
-- You can download the [presentation slides](https://github.com/authman/htmlhackathon/archive/master.zip), if you wish to follow along locally (or skip ahead).
+- You can download the [presentation slides](https://github.com/authman/htmlhackathon/blob/master/Muslim Hackathon HTML5.pdf), if you wish to follow along locally (or skip ahead).
 
 - Ask questions!
 
